@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 43.122 s <<< FAILURE! - in TestSuite
+tearDown(BaseTest)  Time elapsed: 8.574 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null
+	at BaseTest.tearDown(BaseTest.java:34)
+

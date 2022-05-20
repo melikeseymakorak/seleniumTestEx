@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="10" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T16:33:53 TRT" name="Surefire suite" finished-at="2022-05-18T16:34:31 TRT" duration-ms="38520">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T16:33:53 TRT" name="Surefire test" finished-at="2022-05-18T16:34:31 TRT" duration-ms="38520">
+      <class name="TestSettingNameLastNameEmail">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:13 TRT" name="beforeMethod" finished-at="2022-05-18T16:34:14 TRT" duration-ms="1272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="setName()[pri:0, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:14 TRT" name="setName" finished-at="2022-05-18T16:34:19 TRT" duration-ms="4660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setName -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:19 TRT" name="afterMethod" finished-at="2022-05-18T16:34:19 TRT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:19 TRT" name="beforeMethod" finished-at="2022-05-18T16:34:21 TRT" duration-ms="1315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="setLastName()[pri:1, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:21 TRT" name="setLastName" finished-at="2022-05-18T16:34:25 TRT" duration-ms="4397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLastName -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:25 TRT" name="afterMethod" finished-at="2022-05-18T16:34:25 TRT" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:25 TRT" name="beforeMethod" finished-at="2022-05-18T16:34:27 TRT" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="setEmail()[pri:2, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:27 TRT" name="setEmail" finished-at="2022-05-18T16:34:31 TRT" duration-ms="4417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEmail -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestSettingNameLastNameEmail@7a4ccb53]" started-at="2022-05-18T16:34:31 TRT" name="afterMethod" finished-at="2022-05-18T16:34:31 TRT" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestSettingNameLastNameEmail -->
+      <class name="TestGenderSelection">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:33:53 TRT" name="beforeMethod" finished-at="2022-05-18T16:33:55 TRT" duration-ms="2664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkMaleButton()[pri:0, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:33:55 TRT" name="checkMaleButton" finished-at="2022-05-18T16:34:00 TRT" duration-ms="4267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkMaleButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:34:00 TRT" name="afterMethod" finished-at="2022-05-18T16:34:00 TRT" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:34:00 TRT" name="beforeMethod" finished-at="2022-05-18T16:34:01 TRT" duration-ms="1250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkFemaleButton()[pri:1, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:34:01 TRT" name="checkFemaleButton" finished-at="2022-05-18T16:34:06 TRT" duration-ms="5240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFemaleButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:34:06 TRT" name="afterMethod" finished-at="2022-05-18T16:34:07 TRT" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:34:07 TRT" name="beforeMethod" finished-at="2022-05-18T16:34:08 TRT" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkOtherButton()[pri:2, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:34:08 TRT" name="checkOtherButton" finished-at="2022-05-18T16:34:13 TRT" duration-ms="4849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOtherButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestGenderSelection@33afa13b]" started-at="2022-05-18T16:34:13 TRT" name="afterMethod" finished-at="2022-05-18T16:34:13 TRT" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestGenderSelection -->
+      <class name="BaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:BaseTest@4c1d9d4b]" started-at="2022-05-18T16:33:53 TRT" name="setUp" finished-at="2022-05-18T16:33:53 TRT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BaseTest@4c1d9d4b]" started-at="2022-05-18T16:34:31 TRT" name="tearDown" finished-at="2022-05-18T16:34:35 TRT" duration-ms="4010" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "this.driver" is null
+at BaseTest.tearDown(BaseTest.java:34)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:65)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:381)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:319)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:396)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BaseTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
